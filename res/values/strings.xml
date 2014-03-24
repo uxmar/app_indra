@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Indra</string>
+    <string name="action_settings">Settings</string>
+    <string name="from_station">Estación Origen</string>
+    <string name="to_station">Estación Destino</string>
+    <string name="title_activity_name">MainActivity</string>
+    <string name="get_route">Obtener Ruta</string>
+    <string name="title_activity_display_message">Opciones</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="get_liststation">Stations</string>
+
+</resources>
